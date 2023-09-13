@@ -8,3 +8,4 @@ pull request #6 merged in
 pull request #7 merged in
 pull request #8 merged in
 pull request #9 merged in
+pull request #10 merged in
