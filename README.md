@@ -15,3 +15,4 @@ pull request #13 merged in
 pull request #14 merged in
 pull request #15 merged in
 pull request #16 merged in
+pull request #17 merged in
